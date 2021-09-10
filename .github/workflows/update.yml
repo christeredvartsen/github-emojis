@@ -1,0 +1,37 @@
+name: Update emoji list
+on: push
+jobs:
+  update:
+    runs-on: ubuntu-20.04
+    name: Update list
+    steps:
+      - name: Checkout current repo
+        uses: actions/checkout@v2
+
+      - name: Fetch emojis and update list
+        run: |
+          curl \
+            -s \
+            -f \
+            -H "Accept: application/vnd.github.v3+json" \
+            https://api.github.com/emojis \
+            -o /tmp/emojis.json
+
+          emojis=$(jq -r 'keys[] as $k | "`:\($k):` | <img alt=\":\($k):\" width=\"64\" src=\"\(.[$k])\">"' < /tmp/emojis.json)
+
+          cat << EOF > emojis.md
+          # List of emojis supported by GitHub
+
+          This file lists all emojis available on the GitHub platform. The list is based on the [Emojis API](https://docs.github.com/en/rest/reference/emojis).
+
+          The list was last updated *$(date)*, and is updated weekly.
+
+          Emoji | Result
+          ----- | ------
+          ${emojis}
+          EOF
+
+      - name: Update repo
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Update emojis
