@@ -1,5 +1,7 @@
 name: Update emoji list
-on: push
+on:
+  schedule:
+    - cron: '0 0 * * MON'
 jobs:
   update:
     runs-on: ubuntu-20.04
