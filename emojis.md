@@ -2,7 +2,7 @@
 
 This file lists all emojis available on the GitHub platform. The list is based on the [Emojis API](https://docs.github.com/en/rest/reference/emojis).
 
-The list was last updated *Mon Jan 16 00:18:07 UTC 2023*, and is updated weekly.
+The list was last updated *Mon Jan 23 00:17:26 UTC 2023*, and is updated weekly.
 
 Emoji | Result
 ----- | ------
@@ -463,6 +463,7 @@ Emoji | Result
 `:deer:` | <img alt=":deer:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f98c.png?v8">
 `:denmark:` | <img alt=":denmark:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e9-1f1f0.png?v8">
 `:department_store:` | <img alt=":department_store:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f3ec.png?v8">
+`:dependabot:` | <img alt=":dependabot:" width="64" src="https://github.githubassets.com/images/icons/emoji/dependabot.png?v8">
 `:derelict_house:` | <img alt=":derelict_house:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f3da.png?v8">
 `:desert:` | <img alt=":desert:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f3dc.png?v8">
 `:desert_island:` | <img alt=":desert_island:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f3dd.png?v8">
@@ -622,6 +623,7 @@ Emoji | Result
 `:fish:` | <img alt=":fish:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f41f.png?v8">
 `:fish_cake:` | <img alt=":fish_cake:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f365.png?v8">
 `:fishing_pole_and_fish:` | <img alt=":fishing_pole_and_fish:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f3a3.png?v8">
+`:fishsticks:` | <img alt=":fishsticks:" width="64" src="https://github.githubassets.com/images/icons/emoji/fishsticks.png?v8">
 `:fist:` | <img alt=":fist:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/270a.png?v8">
 `:fist_left:` | <img alt=":fist_left:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f91b.png?v8">
 `:fist_oncoming:` | <img alt=":fist_oncoming:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f44a.png?v8">
