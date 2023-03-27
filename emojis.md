@@ -2,7 +2,7 @@
 
 This file lists all emojis available on the GitHub platform. The list is based on the [Emojis API](https://docs.github.com/en/rest/reference/emojis).
 
-The list was last updated *Mon Mar 20 00:19:21 UTC 2023*, and is updated weekly.
+The list was last updated *Mon Mar 27 00:17:45 UTC 2023*, and is updated weekly.
 
 Emoji | Result
 ----- | ------
@@ -20,6 +20,7 @@ Emoji | Result
 `:abc:` | <img alt=":abc:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f524.png?v8">
 `:abcd:` | <img alt=":abcd:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f521.png?v8">
 `:accept:` | <img alt=":accept:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f251.png?v8">
+`:accessibility:` | <img alt=":accessibility:" width="64" src="https://github.githubassets.com/images/icons/emoji/accessibility.png?v8">
 `:accordion:` | <img alt=":accordion:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1fa97.png?v8">
 `:adhesive_bandage:` | <img alt=":adhesive_bandage:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1fa79.png?v8">
 `:adult:` | <img alt=":adult:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d1.png?v8">
