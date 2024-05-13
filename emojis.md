@@ -2,7 +2,7 @@
 
 This file lists all emojis available on the GitHub platform. The list is based on the [Emojis API](https://docs.github.com/en/rest/reference/emojis).
 
-The list was last updated *Mon May  6 00:18:16 UTC 2024*, and is updated weekly.
+The list was last updated *Mon May 13 00:18:47 UTC 2024*, and is updated weekly.
 
 Emoji | Result
 ----- | ------
@@ -134,6 +134,7 @@ Emoji | Result
 `:bathtub:` | <img alt=":bathtub:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f6c1.png?v8">
 `:battery:` | <img alt=":battery:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f50b.png?v8">
 `:beach_umbrella:` | <img alt=":beach_umbrella:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f3d6.png?v8">
+`:beans:` | <img alt=":beans:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1fad8.png?v8">
 `:bear:` | <img alt=":bear:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f43b.png?v8">
 `:bearded_person:` | <img alt=":bearded_person:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d4.png?v8">
 `:beaver:` | <img alt=":beaver:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f9ab.png?v8">
@@ -164,6 +165,8 @@ Emoji | Result
 `:bird:` | <img alt=":bird:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f426.png?v8">
 `:birthday:` | <img alt=":birthday:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f382.png?v8">
 `:bison:` | <img alt=":bison:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f9ac.png?v8">
+`:biting_lip:` | <img alt=":biting_lip:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1fae6.png?v8">
+`:black_bird:` | <img alt=":black_bird:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f426-2b1b.png?v8">
 `:black_cat:` | <img alt=":black_cat:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f408-2b1b.png?v8">
 `:black_circle:` | <img alt=":black_circle:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/26ab.png?v8">
 `:black_flag:` | <img alt=":black_flag:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f3f4.png?v8">
@@ -233,6 +236,7 @@ Emoji | Result
 `:brown_square:` | <img alt=":brown_square:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f7eb.png?v8">
 `:brunei:` | <img alt=":brunei:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e7-1f1f3.png?v8">
 `:bubble_tea:` | <img alt=":bubble_tea:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f9cb.png?v8">
+`:bubbles:` | <img alt=":bubbles:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1fae7.png?v8">
 `:bucket:` | <img alt=":bucket:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1faa3.png?v8">
 `:bug:` | <img alt=":bug:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f41b.png?v8">
 `:building_construction:` | <img alt=":building_construction:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f3d7.png?v8">
@@ -395,6 +399,7 @@ Emoji | Result
 `:cool:` | <img alt=":cool:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f192.png?v8">
 `:cop:` | <img alt=":cop:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f46e.png?v8">
 `:copyright:` | <img alt=":copyright:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/00a9.png?v8">
+`:coral:` | <img alt=":coral:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1fab8.png?v8">
 `:corn:` | <img alt=":corn:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f33d.png?v8">
 `:costa_rica:` | <img alt=":costa_rica:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e8-1f1f7.png?v8">
 `:cote_divoire:` | <img alt=":cote_divoire:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e8-1f1ee.png?v8">
@@ -424,6 +429,7 @@ Emoji | Result
 `:crossed_flags:` | <img alt=":crossed_flags:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f38c.png?v8">
 `:crossed_swords:` | <img alt=":crossed_swords:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/2694.png?v8">
 `:crown:` | <img alt=":crown:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f451.png?v8">
+`:crutch:` | <img alt=":crutch:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1fa7c.png?v8">
 `:cry:` | <img alt=":cry:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f622.png?v8">
 `:crying_cat_face:` | <img alt=":crying_cat_face:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f63f.png?v8">
 `:crystal_ball:` | <img alt=":crystal_ball:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f52e.png?v8">
@@ -491,7 +497,9 @@ Emoji | Result
 `:dolphin:` | <img alt=":dolphin:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f42c.png?v8">
 `:dominica:` | <img alt=":dominica:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e9-1f1f2.png?v8">
 `:dominican_republic:` | <img alt=":dominican_republic:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e9-1f1f4.png?v8">
+`:donkey:` | <img alt=":donkey:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1facf.png?v8">
 `:door:` | <img alt=":door:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f6aa.png?v8">
+`:dotted_line_face:` | <img alt=":dotted_line_face:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1fae5.png?v8">
 `:doughnut:` | <img alt=":doughnut:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f369.png?v8">
 `:dove:` | <img alt=":dove:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f54a.png?v8">
 `:dragon:` | <img alt=":dragon:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f409.png?v8">
@@ -530,6 +538,7 @@ Emoji | Result
 `:elf_man:` | <img alt=":elf_man:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f9dd-2642.png?v8">
 `:elf_woman:` | <img alt=":elf_woman:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f9dd-2640.png?v8">
 `:email:` | <img alt=":email:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e7.png?v8">
+`:empty_nest:` | <img alt=":empty_nest:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1fab9.png?v8">
 `:end:` | <img alt=":end:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f51a.png?v8">
 `:england:` | <img alt=":england:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f3f4-e0067-e0062-e0065-e006e-e0067-e007f.png?v8">
 `:envelope:` | <img alt=":envelope:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/2709.png?v8">
@@ -553,8 +562,12 @@ Emoji | Result
 `:eyeglasses:` | <img alt=":eyeglasses:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f453.png?v8">
 `:eyes:` | <img alt=":eyes:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f440.png?v8">
 `:face_exhaling:` | <img alt=":face_exhaling:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f62e-1f4a8.png?v8">
+`:face_holding_back_tears:` | <img alt=":face_holding_back_tears:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f979.png?v8">
 `:face_in_clouds:` | <img alt=":face_in_clouds:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f636-1f32b.png?v8">
+`:face_with_diagonal_mouth:` | <img alt=":face_with_diagonal_mouth:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1fae4.png?v8">
 `:face_with_head_bandage:` | <img alt=":face_with_head_bandage:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f915.png?v8">
+`:face_with_open_eyes_and_hand_over_mouth:` | <img alt=":face_with_open_eyes_and_hand_over_mouth:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1fae2.png?v8">
+`:face_with_peeking_eye:` | <img alt=":face_with_peeking_eye:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1fae3.png?v8">
 `:face_with_spiral_eyes:` | <img alt=":face_with_spiral_eyes:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f635-1f4ab.png?v8">
 `:face_with_thermometer:` | <img alt=":face_with_thermometer:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f912.png?v8">
 `:facepalm:` | <img alt=":facepalm:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f926.png?v8">
@@ -643,11 +656,13 @@ Emoji | Result
 `:floppy_disk:` | <img alt=":floppy_disk:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4be.png?v8">
 `:flower_playing_cards:` | <img alt=":flower_playing_cards:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f3b4.png?v8">
 `:flushed:` | <img alt=":flushed:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f633.png?v8">
+`:flute:` | <img alt=":flute:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1fa88.png?v8">
 `:fly:` | <img alt=":fly:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1fab0.png?v8">
 `:flying_disc:` | <img alt=":flying_disc:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f94f.png?v8">
 `:flying_saucer:` | <img alt=":flying_saucer:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f6f8.png?v8">
 `:fog:` | <img alt=":fog:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f32b.png?v8">
 `:foggy:` | <img alt=":foggy:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f301.png?v8">
+`:folding_hand_fan:` | <img alt=":folding_hand_fan:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1faad.png?v8">
 `:fondue:` | <img alt=":fondue:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1fad5.png?v8">
 `:foot:` | <img alt=":foot:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f9b6.png?v8">
 `:football:` | <img alt=":football:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c8.png?v8">
@@ -696,6 +711,7 @@ Emoji | Result
 `:gibraltar:` | <img alt=":gibraltar:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ec-1f1ee.png?v8">
 `:gift:` | <img alt=":gift:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f381.png?v8">
 `:gift_heart:` | <img alt=":gift_heart:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f49d.png?v8">
+`:ginger_root:` | <img alt=":ginger_root:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1fada.png?v8">
 `:giraffe:` | <img alt=":giraffe:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f992.png?v8">
 `:girl:` | <img alt=":girl:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f467.png?v8">
 `:globe_with_meridians:` | <img alt=":globe_with_meridians:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f310.png?v8">
@@ -709,6 +725,7 @@ Emoji | Result
 `:golfing:` | <img alt=":golfing:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f3cc.png?v8">
 `:golfing_man:` | <img alt=":golfing_man:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f3cc-2642.png?v8">
 `:golfing_woman:` | <img alt=":golfing_woman:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f3cc-2640.png?v8">
+`:goose:` | <img alt=":goose:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1fabf.png?v8">
 `:gorilla:` | <img alt=":gorilla:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f98d.png?v8">
 `:grapes:` | <img alt=":grapes:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f347.png?v8">
 `:greece:` | <img alt=":greece:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ec-1f1f7.png?v8">
@@ -721,6 +738,7 @@ Emoji | Result
 `:greenland:` | <img alt=":greenland:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ec-1f1f1.png?v8">
 `:grenada:` | <img alt=":grenada:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ec-1f1e9.png?v8">
 `:grey_exclamation:` | <img alt=":grey_exclamation:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/2755.png?v8">
+`:grey_heart:` | <img alt=":grey_heart:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1fa76.png?v8">
 `:grey_question:` | <img alt=":grey_question:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/2754.png?v8">
 `:grimacing:` | <img alt=":grimacing:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f62c.png?v8">
 `:grin:` | <img alt=":grin:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f601.png?v8">
@@ -738,6 +756,7 @@ Emoji | Result
 `:guitar:` | <img alt=":guitar:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f3b8.png?v8">
 `:gun:` | <img alt=":gun:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f52b.png?v8">
 `:guyana:` | <img alt=":guyana:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ec-1f1fe.png?v8">
+`:hair_pick:` | <img alt=":hair_pick:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1faae.png?v8">
 `:haircut:` | <img alt=":haircut:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f487.png?v8">
 `:haircut_man:` | <img alt=":haircut_man:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f487-2642.png?v8">
 `:haircut_woman:` | <img alt=":haircut_woman:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f487-2640.png?v8">
@@ -746,9 +765,11 @@ Emoji | Result
 `:hammer:` | <img alt=":hammer:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f528.png?v8">
 `:hammer_and_pick:` | <img alt=":hammer_and_pick:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/2692.png?v8">
 `:hammer_and_wrench:` | <img alt=":hammer_and_wrench:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png?v8">
+`:hamsa:` | <img alt=":hamsa:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1faac.png?v8">
 `:hamster:` | <img alt=":hamster:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f439.png?v8">
 `:hand:` | <img alt=":hand:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/270b.png?v8">
 `:hand_over_mouth:` | <img alt=":hand_over_mouth:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f92d.png?v8">
+`:hand_with_index_finger_and_thumb_crossed:` | <img alt=":hand_with_index_finger_and_thumb_crossed:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1faf0.png?v8">
 `:handbag:` | <img alt=":handbag:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f45c.png?v8">
 `:handball_person:` | <img alt=":handball_person:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f93e.png?v8">
 `:handshake:` | <img alt=":handshake:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f91d.png?v8">
@@ -765,6 +786,7 @@ Emoji | Result
 `:heart_decoration:` | <img alt=":heart_decoration:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f49f.png?v8">
 `:heart_eyes:` | <img alt=":heart_eyes:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f60d.png?v8">
 `:heart_eyes_cat:` | <img alt=":heart_eyes_cat:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f63b.png?v8">
+`:heart_hands:` | <img alt=":heart_hands:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1faf6.png?v8">
 `:heart_on_fire:` | <img alt=":heart_on_fire:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/2764-1f525.png?v8">
 `:heartbeat:` | <img alt=":heartbeat:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f493.png?v8">
 `:heartpulse:` | <img alt=":heartpulse:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f497.png?v8">
@@ -772,6 +794,7 @@ Emoji | Result
 `:heavy_check_mark:` | <img alt=":heavy_check_mark:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png?v8">
 `:heavy_division_sign:` | <img alt=":heavy_division_sign:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/2797.png?v8">
 `:heavy_dollar_sign:` | <img alt=":heavy_dollar_sign:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4b2.png?v8">
+`:heavy_equals_sign:` | <img alt=":heavy_equals_sign:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f7f0.png?v8">
 `:heavy_exclamation_mark:` | <img alt=":heavy_exclamation_mark:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/2757.png?v8">
 `:heavy_heart_exclamation:` | <img alt=":heavy_heart_exclamation:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/2763.png?v8">
 `:heavy_minus_sign:` | <img alt=":heavy_minus_sign:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/2796.png?v8">
@@ -811,6 +834,7 @@ Emoji | Result
 `:hurtrealbad:` | <img alt=":hurtrealbad:" width="64" src="https://github.githubassets.com/images/icons/emoji/hurtrealbad.png?v8">
 `:hushed:` | <img alt=":hushed:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f62f.png?v8">
 `:hut:` | <img alt=":hut:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f6d6.png?v8">
+`:hyacinth:` | <img alt=":hyacinth:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1fabb.png?v8">
 `:ice_cream:` | <img alt=":ice_cream:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f368.png?v8">
 `:ice_cube:` | <img alt=":ice_cube:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f9ca.png?v8">
 `:ice_hockey:` | <img alt=":ice_hockey:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f3d2.png?v8">
@@ -818,10 +842,12 @@ Emoji | Result
 `:icecream:` | <img alt=":icecream:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f366.png?v8">
 `:iceland:` | <img alt=":iceland:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ee-1f1f8.png?v8">
 `:id:` | <img alt=":id:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f194.png?v8">
+`:identification_card:` | <img alt=":identification_card:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1faaa.png?v8">
 `:ideograph_advantage:` | <img alt=":ideograph_advantage:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f250.png?v8">
 `:imp:` | <img alt=":imp:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f47f.png?v8">
 `:inbox_tray:` | <img alt=":inbox_tray:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e5.png?v8">
 `:incoming_envelope:` | <img alt=":incoming_envelope:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e8.png?v8">
+`:index_pointing_at_the_viewer:` | <img alt=":index_pointing_at_the_viewer:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1faf5.png?v8">
 `:india:` | <img alt=":india:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ee-1f1f3.png?v8">
 `:indonesia:` | <img alt=":indonesia:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ee-1f1e9.png?v8">
 `:infinity:` | <img alt=":infinity:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/267e.png?v8">
@@ -843,7 +869,9 @@ Emoji | Result
 `:japanese_castle:` | <img alt=":japanese_castle:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f3ef.png?v8">
 `:japanese_goblin:` | <img alt=":japanese_goblin:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f47a.png?v8">
 `:japanese_ogre:` | <img alt=":japanese_ogre:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f479.png?v8">
+`:jar:` | <img alt=":jar:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1fad9.png?v8">
 `:jeans:` | <img alt=":jeans:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f456.png?v8">
+`:jellyfish:` | <img alt=":jellyfish:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1fabc.png?v8">
 `:jersey:` | <img alt=":jersey:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ef-1f1ea.png?v8">
 `:jigsaw:` | <img alt=":jigsaw:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f9e9.png?v8">
 `:jordan:` | <img alt=":jordan:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ef-1f1f4.png?v8">
@@ -860,6 +888,7 @@ Emoji | Result
 `:key:` | <img alt=":key:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f511.png?v8">
 `:keyboard:` | <img alt=":keyboard:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/2328.png?v8">
 `:keycap_ten:` | <img alt=":keycap_ten:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f51f.png?v8">
+`:khanda:` | <img alt=":khanda:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1faaf.png?v8">
 `:kick_scooter:` | <img alt=":kick_scooter:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f6f4.png?v8">
 `:kimono:` | <img alt=":kimono:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f458.png?v8">
 `:kiribati:` | <img alt=":kiribati:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f0-1f1ee.png?v8">
@@ -905,6 +934,8 @@ Emoji | Result
 `:left_right_arrow:` | <img alt=":left_right_arrow:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/2194.png?v8">
 `:left_speech_bubble:` | <img alt=":left_speech_bubble:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f5e8.png?v8">
 `:leftwards_arrow_with_hook:` | <img alt=":leftwards_arrow_with_hook:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/21a9.png?v8">
+`:leftwards_hand:` | <img alt=":leftwards_hand:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1faf2.png?v8">
+`:leftwards_pushing_hand:` | <img alt=":leftwards_pushing_hand:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1faf7.png?v8">
 `:leg:` | <img alt=":leg:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f9b5.png?v8">
 `:lemon:` | <img alt=":lemon:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f34b.png?v8">
 `:leo:` | <img alt=":leo:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/264c.png?v8">
@@ -915,6 +946,7 @@ Emoji | Result
 `:libra:` | <img alt=":libra:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/264e.png?v8">
 `:libya:` | <img alt=":libya:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f1-1f1fe.png?v8">
 `:liechtenstein:` | <img alt=":liechtenstein:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f1-1f1ee.png?v8">
+`:light_blue_heart:` | <img alt=":light_blue_heart:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1fa75.png?v8">
 `:light_rail:` | <img alt=":light_rail:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f688.png?v8">
 `:link:` | <img alt=":link:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png?v8">
 `:lion:` | <img alt=":lion:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f981.png?v8">
@@ -930,6 +962,7 @@ Emoji | Result
 `:long_drum:` | <img alt=":long_drum:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1fa98.png?v8">
 `:loop:` | <img alt=":loop:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/27bf.png?v8">
 `:lotion_bottle:` | <img alt=":lotion_bottle:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f9f4.png?v8">
+`:lotus:` | <img alt=":lotus:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1fab7.png?v8">
 `:lotus_position:` | <img alt=":lotus_position:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d8.png?v8">
 `:lotus_position_man:` | <img alt=":lotus_position_man:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d8-2642.png?v8">
 `:lotus_position_woman:` | <img alt=":lotus_position_woman:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d8-2640.png?v8">
@@ -938,6 +971,7 @@ Emoji | Result
 `:love_hotel:` | <img alt=":love_hotel:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f3e9.png?v8">
 `:love_letter:` | <img alt=":love_letter:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f48c.png?v8">
 `:love_you_gesture:` | <img alt=":love_you_gesture:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f91f.png?v8">
+`:low_battery:` | <img alt=":low_battery:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1faab.png?v8">
 `:low_brightness:` | <img alt=":low_brightness:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f505.png?v8">
 `:luggage:` | <img alt=":luggage:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f9f3.png?v8">
 `:lungs:` | <img alt=":lungs:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1fac1.png?v8">
@@ -1006,6 +1040,7 @@ Emoji | Result
 `:mantelpiece_clock:` | <img alt=":mantelpiece_clock:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f570.png?v8">
 `:manual_wheelchair:` | <img alt=":manual_wheelchair:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f9bd.png?v8">
 `:maple_leaf:` | <img alt=":maple_leaf:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f341.png?v8">
+`:maracas:` | <img alt=":maracas:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1fa87.png?v8">
 `:marshall_islands:` | <img alt=":marshall_islands:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f2-1f1ed.png?v8">
 `:martial_arts_uniform:` | <img alt=":martial_arts_uniform:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f94b.png?v8">
 `:martinique:` | <img alt=":martinique:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f2-1f1f6.png?v8">
@@ -1026,6 +1061,7 @@ Emoji | Result
 `:medical_symbol:` | <img alt=":medical_symbol:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/2695.png?v8">
 `:mega:` | <img alt=":mega:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e3.png?v8">
 `:melon:` | <img alt=":melon:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f348.png?v8">
+`:melting_face:` | <img alt=":melting_face:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1fae0.png?v8">
 `:memo:` | <img alt=":memo:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png?v8">
 `:men_wrestling:` | <img alt=":men_wrestling:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f93c-2642.png?v8">
 `:mending_heart:` | <img alt=":mending_heart:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/2764-1fa79.png?v8">
@@ -1048,6 +1084,7 @@ Emoji | Result
 `:minibus:` | <img alt=":minibus:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f690.png?v8">
 `:minidisc:` | <img alt=":minidisc:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bd.png?v8">
 `:mirror:` | <img alt=":mirror:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1fa9e.png?v8">
+`:mirror_ball:` | <img alt=":mirror_ball:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1faa9.png?v8">
 `:mobile_phone_off:` | <img alt=":mobile_phone_off:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4f4.png?v8">
 `:moldova:` | <img alt=":moldova:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f2-1f1e9.png?v8">
 `:monaco:` | <img alt=":monaco:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f2-1f1e8.png?v8">
@@ -1063,6 +1100,7 @@ Emoji | Result
 `:montserrat:` | <img alt=":montserrat:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f2-1f1f8.png?v8">
 `:moon:` | <img alt=":moon:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f314.png?v8">
 `:moon_cake:` | <img alt=":moon_cake:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f96e.png?v8">
+`:moose:` | <img alt=":moose:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1face.png?v8">
 `:morocco:` | <img alt=":morocco:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f2-1f1e6.png?v8">
 `:mortar_board:` | <img alt=":mortar_board:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f393.png?v8">
 `:mosque:` | <img alt=":mosque:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f54c.png?v8">
@@ -1107,6 +1145,7 @@ Emoji | Result
 `:negative_squared_cross_mark:` | <img alt=":negative_squared_cross_mark:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/274e.png?v8">
 `:nepal:` | <img alt=":nepal:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f3-1f1f5.png?v8">
 `:nerd_face:` | <img alt=":nerd_face:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f913.png?v8">
+`:nest_with_eggs:` | <img alt=":nest_with_eggs:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1faba.png?v8">
 `:nesting_dolls:` | <img alt=":nesting_dolls:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1fa86.png?v8">
 `:netherlands:` | <img alt=":netherlands:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f3-1f1f1.png?v8">
 `:neutral_face:` | <img alt=":neutral_face:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f610.png?v8">
@@ -1204,7 +1243,9 @@ Emoji | Result
 `:pakistan:` | <img alt=":pakistan:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f5-1f1f0.png?v8">
 `:palau:` | <img alt=":palau:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f5-1f1fc.png?v8">
 `:palestinian_territories:` | <img alt=":palestinian_territories:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f5-1f1f8.png?v8">
+`:palm_down_hand:` | <img alt=":palm_down_hand:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1faf3.png?v8">
 `:palm_tree:` | <img alt=":palm_tree:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f334.png?v8">
+`:palm_up_hand:` | <img alt=":palm_up_hand:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1faf4.png?v8">
 `:palms_up_together:` | <img alt=":palms_up_together:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f932.png?v8">
 `:panama:` | <img alt=":panama:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f5-1f1e6.png?v8">
 `:pancakes:` | <img alt=":pancakes:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f95e.png?v8">
@@ -1224,6 +1265,7 @@ Emoji | Result
 `:passport_control:` | <img alt=":passport_control:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f6c2.png?v8">
 `:pause_button:` | <img alt=":pause_button:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/23f8.png?v8">
 `:paw_prints:` | <img alt=":paw_prints:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f43e.png?v8">
+`:pea_pod:` | <img alt=":pea_pod:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1fadb.png?v8">
 `:peace_symbol:` | <img alt=":peace_symbol:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/262e.png?v8">
 `:peach:` | <img alt=":peach:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f351.png?v8">
 `:peacock:` | <img alt=":peacock:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f99a.png?v8">
@@ -1247,6 +1289,7 @@ Emoji | Result
 `:person_in_tuxedo:` | <img alt=":person_in_tuxedo:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f935.png?v8">
 `:person_red_hair:` | <img alt=":person_red_hair:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d1-1f9b0.png?v8">
 `:person_white_hair:` | <img alt=":person_white_hair:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d1-1f9b3.png?v8">
+`:person_with_crown:` | <img alt=":person_with_crown:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1fac5.png?v8">
 `:person_with_probing_cane:` | <img alt=":person_with_probing_cane:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d1-1f9af.png?v8">
 `:person_with_turban:` | <img alt=":person_with_turban:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f473.png?v8">
 `:person_with_veil:` | <img alt=":person_with_veil:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f470.png?v8">
@@ -1267,6 +1310,7 @@ Emoji | Result
 `:pinching_hand:` | <img alt=":pinching_hand:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f90f.png?v8">
 `:pineapple:` | <img alt=":pineapple:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f34d.png?v8">
 `:ping_pong:` | <img alt=":ping_pong:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f3d3.png?v8">
+`:pink_heart:` | <img alt=":pink_heart:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1fa77.png?v8">
 `:pirate_flag:` | <img alt=":pirate_flag:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f3f4-2620.png?v8">
 `:pisces:` | <img alt=":pisces:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/2653.png?v8">
 `:pitcairn_islands:` | <img alt=":pitcairn_islands:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f5-1f1f3.png?v8">
@@ -1275,6 +1319,7 @@ Emoji | Result
 `:place_of_worship:` | <img alt=":place_of_worship:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f6d0.png?v8">
 `:plate_with_cutlery:` | <img alt=":plate_with_cutlery:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f37d.png?v8">
 `:play_or_pause_button:` | <img alt=":play_or_pause_button:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/23ef.png?v8">
+`:playground_slide:` | <img alt=":playground_slide:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f6dd.png?v8">
 `:pleading_face:` | <img alt=":pleading_face:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f97a.png?v8">
 `:plunger:` | <img alt=":plunger:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1faa0.png?v8">
 `:point_down:` | <img alt=":point_down:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f447.png?v8">
@@ -1301,6 +1346,7 @@ Emoji | Result
 `:pouch:` | <img alt=":pouch:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f45d.png?v8">
 `:poultry_leg:` | <img alt=":poultry_leg:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f357.png?v8">
 `:pound:` | <img alt=":pound:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4b7.png?v8">
+`:pouring_liquid:` | <img alt=":pouring_liquid:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1fad7.png?v8">
 `:pout:` | <img alt=":pout:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f621.png?v8">
 `:pouting_cat:` | <img alt=":pouting_cat:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f63e.png?v8">
 `:pouting_face:` | <img alt=":pouting_face:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f64e.png?v8">
@@ -1308,6 +1354,8 @@ Emoji | Result
 `:pouting_woman:` | <img alt=":pouting_woman:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f64e-2640.png?v8">
 `:pray:` | <img alt=":pray:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f64f.png?v8">
 `:prayer_beads:` | <img alt=":prayer_beads:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ff.png?v8">
+`:pregnant_man:` | <img alt=":pregnant_man:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1fac3.png?v8">
+`:pregnant_person:` | <img alt=":pregnant_person:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1fac4.png?v8">
 `:pregnant_woman:` | <img alt=":pregnant_woman:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f930.png?v8">
 `:pretzel:` | <img alt=":pretzel:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f968.png?v8">
 `:previous_track_button:` | <img alt=":previous_track_button:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/23ee.png?v8">
@@ -1381,7 +1429,10 @@ Emoji | Result
 `:rice_cracker:` | <img alt=":rice_cracker:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f358.png?v8">
 `:rice_scene:` | <img alt=":rice_scene:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f391.png?v8">
 `:right_anger_bubble:` | <img alt=":right_anger_bubble:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f5ef.png?v8">
+`:rightwards_hand:` | <img alt=":rightwards_hand:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1faf1.png?v8">
+`:rightwards_pushing_hand:` | <img alt=":rightwards_pushing_hand:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1faf8.png?v8">
 `:ring:` | <img alt=":ring:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f48d.png?v8">
+`:ring_buoy:` | <img alt=":ring_buoy:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f6df.png?v8">
 `:ringed_planet:` | <img alt=":ringed_planet:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1fa90.png?v8">
 `:robot:` | <img alt=":robot:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f916.png?v8">
 `:rock:` | <img alt=":rock:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1faa8.png?v8">
@@ -1415,6 +1466,7 @@ Emoji | Result
 `:sailboat:` | <img alt=":sailboat:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/26f5.png?v8">
 `:sake:` | <img alt=":sake:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f376.png?v8">
 `:salt:` | <img alt=":salt:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f9c2.png?v8">
+`:saluting_face:` | <img alt=":saluting_face:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1fae1.png?v8">
 `:samoa:` | <img alt=":samoa:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f1fc-1f1f8.png?v8">
 `:san_marino:` | <img alt=":san_marino:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f8-1f1f2.png?v8">
 `:sandal:` | <img alt=":sandal:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f461.png?v8">
@@ -1456,6 +1508,7 @@ Emoji | Result
 `:seven:` | <img alt=":seven:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/0037-20e3.png?v8">
 `:sewing_needle:` | <img alt=":sewing_needle:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1faa1.png?v8">
 `:seychelles:` | <img alt=":seychelles:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f8-1f1e8.png?v8">
+`:shaking_face:` | <img alt=":shaking_face:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1fae8.png?v8">
 `:shallow_pan_of_food:` | <img alt=":shallow_pan_of_food:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f958.png?v8">
 `:shamrock:` | <img alt=":shamrock:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/2618.png?v8">
 `:shark:` | <img alt=":shark:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f988.png?v8">
@@ -1698,6 +1751,7 @@ Emoji | Result
 `:trinidad_tobago:` | <img alt=":trinidad_tobago:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f9-1f1f9.png?v8">
 `:tristan_da_cunha:` | <img alt=":tristan_da_cunha:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f9-1f1e6.png?v8">
 `:triumph:` | <img alt=":triumph:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f624.png?v8">
+`:troll:` | <img alt=":troll:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f9cc.png?v8">
 `:trolleybus:` | <img alt=":trolleybus:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f68e.png?v8">
 `:trollface:` | <img alt=":trollface:" width="64" src="https://github.githubassets.com/images/icons/emoji/trollface.png?v8">
 `:trophy:` | <img alt=":trophy:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png?v8">
@@ -1795,6 +1849,7 @@ Emoji | Result
 `:western_sahara:` | <img alt=":western_sahara:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ea-1f1ed.png?v8">
 `:whale:` | <img alt=":whale:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f433.png?v8">
 `:whale2:` | <img alt=":whale2:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f40b.png?v8">
+`:wheel:` | <img alt=":wheel:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f6de.png?v8">
 `:wheel_of_dharma:` | <img alt=":wheel_of_dharma:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/2638.png?v8">
 `:wheelchair:` | <img alt=":wheelchair:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/267f.png?v8">
 `:white_check_mark:` | <img alt=":white_check_mark:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/2705.png?v8">
@@ -1814,7 +1869,9 @@ Emoji | Result
 `:wind_face:` | <img alt=":wind_face:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f32c.png?v8">
 `:window:` | <img alt=":window:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1fa9f.png?v8">
 `:wine_glass:` | <img alt=":wine_glass:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f377.png?v8">
+`:wing:` | <img alt=":wing:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1fabd.png?v8">
 `:wink:` | <img alt=":wink:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f609.png?v8">
+`:wireless:` | <img alt=":wireless:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f6dc.png?v8">
 `:wolf:` | <img alt=":wolf:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f43a.png?v8">
 `:woman:` | <img alt=":woman:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f469.png?v8">
 `:woman_artist:` | <img alt=":woman_artist:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f469-1f3a8.png?v8">
@@ -1862,6 +1919,7 @@ Emoji | Result
 `:wrestling:` | <img alt=":wrestling:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f93c.png?v8">
 `:writing_hand:` | <img alt=":writing_hand:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/270d.png?v8">
 `:x:` | <img alt=":x:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/274c.png?v8">
+`:x_ray:` | <img alt=":x_ray:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1fa7b.png?v8">
 `:yarn:` | <img alt=":yarn:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f9f6.png?v8">
 `:yawning_face:` | <img alt=":yawning_face:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f971.png?v8">
 `:yellow_circle:` | <img alt=":yellow_circle:" width="64" src="https://github.githubassets.com/images/icons/emoji/unicode/1f7e1.png?v8">
