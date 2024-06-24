@@ -2,7 +2,7 @@
 
 This file lists all emojis available on the GitHub platform. The list is based on the [Emojis API](https://docs.github.com/en/rest/reference/emojis).
 
-The list was last updated *Mon Jun 17 00:19:41 UTC 2024*, and is updated weekly.
+The list was last updated *Mon Jun 24 00:20:10 UTC 2024*, and is updated weekly.
 
 Emoji | Result
 ----- | ------
